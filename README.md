@@ -1,5 +1,4 @@
-# Desktop Voice Assistant🔥
-
+# Desktop Voice Assistant
 <img src="https://giffiles.alphacoders.com/212/212508.gif" alt="">
 
 **Have you ever wondered how cool it would be to have your own assistant? Imagine how easier it would be doing Wikipedia searches without opening web browsers, and performing many other daily tasks like playing music with the help of a single voice command, opening different browsers in just a voice command.**
@@ -10,7 +9,6 @@
 
 ## 📌Built with
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ## 📌Features
 
